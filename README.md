@@ -1,6 +1,6 @@
 ## Creating a Token in Solidity
 
-The myToken.sol program provided in this repository demonstrates the creation, minting, and burning of a simple token on a blockchain using Solidity.
+The assignment.sol program provided in this repository demonstrates the creation, minting, and burning of a simple token on a blockchain using Solidity.
 
 
 ## Description
